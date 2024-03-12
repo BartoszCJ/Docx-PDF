@@ -24,13 +24,9 @@
   color: white;
 }
 
-.App-header div
-
-{
-white-space: pre-line;
-
+.App-header div {
+  white-space: pre-line;
 }
-
 
 .App-link {
   color: #61dafb;
